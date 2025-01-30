@@ -6,7 +6,7 @@
 💻 Learning **C, Shell, C++, HTML, CSS, SaSS, JavaScript, React**.  
 🌐 Enrolled in the **Fullstack Web Bootcamp (FreeCodeCamp)**.  
 🚀 Passionate about **software development, blockchain, problem-solving, and web technologies**.  
-₿  I wrote book to guide novices understand the **blockchain world** [Click here](https://www.amazon.com/dp/B0DTZ1QL1J?ref_=pe_93986420_774957520&fbclid=IwY2xjawIIaWlleHRuA2FlbQIxMAABHeXafIqJ8QP7IaYZFYWl5JbiytLj4cwVkCvJBD_a6VDc1mHWTeVlvjdNAQ_aem_NTUifqAvjjCTy00fOoPDXA)
+₿   I wrote book to guide novices understand the **blockchain world** [Click here](https://www.amazon.com/dp/B0DTZ1QL1J?ref_=pe_93986420_774957520&fbclid=IwY2xjawIIaWlleHRuA2FlbQIxMAABHeXafIqJ8QP7IaYZFYWl5JbiytLj4cwVkCvJBD_a6VDc1mHWTeVlvjdNAQ_aem_NTUifqAvjjCTy00fOoPDXA)
     
 
 ## 🧑🏻‍🎓 Certifications
