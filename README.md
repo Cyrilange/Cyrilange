@@ -1,4 +1,4 @@
-<div style="background-color: #f0f0f0; padding: 20px;">
+<div style="background: grey; padding: 20px;">
 <img src="https://raw.githubusercontent.com/Cyrilange/Cyrilange/main/banner.svg" alt="Cyrilange Banner">
 
 🏫 Currently studying **Computer Science** at 42 Malaga.  
