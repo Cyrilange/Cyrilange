@@ -9,9 +9,9 @@
 
 ## 🧑🏻‍🎓 Certifications
 
-🎓 IFCD0210 Desarrollo de Aplicaciones con Tecnologías Web
-🎓 Web design from FreeCodeCamp
-🎓 Javascript from FreeCodeCamp
+🎓 **IFCD0210 Desarrollo de Aplicaciones con Tecnologías Web** from euroinnova.  
+🎓 **Web design** from FreeCodeCamp.  
+🎓 **Javascript** from FreeCodeCamp.  
 
 ## 🔧 Technologies & Tools:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
