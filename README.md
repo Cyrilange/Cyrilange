@@ -1,6 +1,7 @@
 <div style="background: grey; padding: 20px;">
 <img src="https://raw.githubusercontent.com/Cyrilange/Cyrilange/main/banner.svg" alt="Cyrilange Banner">
 
+🎮 My prefered game is **Age of empire 4**
 🏫 Currently studying **Computer Science** at 42 Malaga.  
 💻 Learning **C, Shell, C++, HTML, CSS, SaSS, JavaScript, React**.  
 🌐 Enrolled in the **Fullstack Web Bootcamp (FreeCodeCamp)**.  
