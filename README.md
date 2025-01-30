@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/Cyrilange/Cyrilange/main/banner.svg" alt="Cyrilange Banner">
-<div style="text-align: center">
+<div style="background: grey">
 🏫 Currently studying **Computer Science** at 42 Malaga.  
 💻 Learning **C, Shell, C++, HTML, CSS, SaSS, JavaScript, React**.  
 🌐 Enrolled in the **Fullstack Web Bootcamp (FreeCodeCamp)**.  
