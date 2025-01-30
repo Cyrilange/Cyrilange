@@ -1,5 +1,7 @@
-<div style="background-color:#212121; padding: 20px; border-radius: 10px; color: white; text-align: center;">
+
 # 👋 Hi, I'm Cyrilange! 
+
+<img src="https://raw.githubusercontent.com/Cyrilange/Cyrilange/main/assets/banner.svg" alt="Cyrilange Banner">
 
 🏫 Currently studying **Computer Science** at 42 Malaga.  
 💻 Learning **C, Shell, C++, HTML, CSS, SaSS, JavaScript, React**.  
@@ -21,4 +23,3 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cyrilange)  
 
 
-</div>
