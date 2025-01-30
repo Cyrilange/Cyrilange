@@ -18,11 +18,17 @@
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyril-salamite-270270197/?originalSubdomain=es)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cyrilange)  
-<div style= "display: flex">
-  
-![Cyrilange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyrilange&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrilange&layout=compact&theme=dark)
-</div>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Cyrilange&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrilange&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 
