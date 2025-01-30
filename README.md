@@ -18,7 +18,7 @@
 
 ## Pinned Repositories
 
-[![Cursus42](https://img.shields.io/badge/Cursus42-Click%Here-2F353B)](https://github.com/Cyrilange/Cursus42)
+[![Cursus42](https://img.shields.io/badge/Cursus42-Click%20Here-2F353B)](https://github.com/Cyrilange/Cursus42)
 [![FCC_Cursus](https://img.shields.io/badge/FCC_Cursus-Click%20Here-2F353B)](https://github.com/Cyrilange/FCC_Cursus)
 
 
