@@ -16,7 +16,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-## Pinned Repositories
+## 💻 Pinned Repositories
 
 [![Cursus42](https://img.shields.io/badge/Cursus42-Click%20Here-2F353B)](https://github.com/Cyrilange/Cursus42)
 [![FCC_Cursus](https://img.shields.io/badge/FCC_Cursus-Click%20Here-2F353B)](https://github.com/Cyrilange/FCC_Cursus)
