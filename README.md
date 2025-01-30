@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Cyrilange! 
 
-<img src="https://raw.githubusercontent.com/Cyrilange/Cyrilange/main/assets/banner.svg" alt="Cyrilange Banner">
+<img src="https://raw.githubusercontent.com/Cyrilange/Cyrilange/main/assets" alt="Cyrilange Banner">
 
 🏫 Currently studying **Computer Science** at 42 Malaga.  
 💻 Learning **C, Shell, C++, HTML, CSS, SaSS, JavaScript, React**.  
