@@ -4,7 +4,13 @@
 🏫 Currently studying **Computer Science** at 42 Malaga.  
 💻 Learning **C, Shell, C++, HTML, CSS, SaSS, JavaScript, React**.  
 🌐 Enrolled in the **Fullstack Web Bootcamp (FreeCodeCamp)**.  
-🚀 Passionate about **software development, blockchain, problem-solving, and web technologies**.  
+🚀 Passionate about **software development, blockchain, problem-solving, and web technologies**.
+
+## 🧑🏻‍🎓 Certifications
+
+🎓 IFCD0210 Desarrollo de Aplicaciones con Tecnologías Web
+🎓 Web design from FreeCodeCamp
+🎓 Javascript from FreeCodeCamp
 
 ## 🔧 Technologies & Tools:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
