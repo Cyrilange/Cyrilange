@@ -16,6 +16,12 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
+## Pinned Repositories
+
+[![Cursus42](https://img.shields.io/badge/Cursus42-Your%20Repository-2F353B)](https://github.com/Cyrilange/Cursus42)
+[![FCC_Cursus](https://img.shields.io/badge/FCC_Cursus-Another%20Repository-2F353B)](https://github.com/Cyrilange/FCC_Cursus)
+
+
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyril-salamite-270270197/?originalSubdomain=es)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cyrilange)  
