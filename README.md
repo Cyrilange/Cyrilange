@@ -3,7 +3,7 @@
 🏫 Currently studying **Computer Science** at 42 Malaga.  
 💻 Learning **C, Shell, C++, HTML, CSS, JavaScript, React**.  
 🌐 Enrolled in the **Fullstack Web Bootcamp (FreeCodeCamp)**.  
-🚀 Passionate about **software development, problem-solving, and web technologies**.  
+🚀 Passionate about **software development, blockchain, problem-solving, and web technologies**.  
 
 ## 🔧 Technologies & Tools:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -13,9 +13,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-## 📊 GitHub Stats:
-![Cyrilange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyrilange&show_icons=true&theme=radical)
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
