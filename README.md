@@ -18,3 +18,5 @@
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyril-salamite-270270197/?originalSubdomain=es)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cyrilange)  
+
+<img src="https://via.placeholder.com/1200x300/212121/ffffff?text=Welcome+to+My+GitHub" width="100%">
