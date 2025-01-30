@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/Cyrilange/Cyrilange/main/banner.svg" alt="Cyrilange Banner">
-<div style="background: grey">
+
 🏫 Currently studying **Computer Science** at 42 Malaga.  
 💻 Learning **C, Shell, C++, HTML, CSS, SaSS, JavaScript, React**.  
 🌐 Enrolled in the **Fullstack Web Bootcamp (FreeCodeCamp)**.  
@@ -18,5 +18,5 @@
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyril-salamite-270270197/?originalSubdomain=es)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cyrilange)  
-</div>
+
 
