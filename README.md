@@ -20,7 +20,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cyrilange)  
 
 
-<table>
+<table style="border: none">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Cyrilange&show_icons=true&theme=dark" />
