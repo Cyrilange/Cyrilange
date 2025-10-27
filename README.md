@@ -28,8 +28,11 @@
 
 ## 💻 Pinned Repositories
 
-[![Cursus42](https://img.shields.io/badge/Cursus42-Click%20Here-2F353B)](https://github.com/Cyrilange/Cursus42)
-[![FCC_Cursus](https://img.shields.io/badge/FCC_Cursus-Click%20Here-2F353B)](https://github.com/Cyrilange/FCC_Cursus)
+[![Cursus42](https://img.shields.io/badge/Cursus42-Click%20Here-2F353B)](https://github.com/Cyrilange/Cursus42)  
+[![FCC_Cursus](https://img.shields.io/badge/FCC_Cursus-Click%20Here-2F353B)](https://github.com/Cyrilange/FCC_Cursus)  
+[![Cub3D](https://img.shields.io/badge/Cub3D-Click%20Here-2F353B)](https://github.com/Cyrilange/Cub3D)  
+[![Minishell](https://img.shields.io/badge/Minishell-Click%20Here-2F353B)](https://github.com/Cyrilange/minishell)
+
 
 
 ## 📫 How to reach me:
