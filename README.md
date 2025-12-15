@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/Cyrilange/Cyrilange/main/banner.svg" alt="Cyrilange Banner">
 
 
-🏫 Currently studying **Computer Science** at 42 Malaga.   
-🌐 Internship on a start up , React-native.  
+🏫 Currently studying **Computer Science** at **42 Malaga**.   
+🌐 Internship done of 6 month on a start up with **React-native**.  
 💻 Learning **C, Shell, C++, HTML, CSS, SaSS, JavaScript, React**.  
 🌐 Enrolled in the **Fullstack Web Bootcamp (FreeCodeCamp)**.  
 🚀 Passionate about **software development, blockchain, problem-solving, and web technologies**.  
@@ -13,8 +13,8 @@
 ## 🧑🏻‍🎓 Certifications
 
 🎓 **IFCD0210 Desarrollo de Aplicaciones con Tecnologías Web** from euroinnova.  
-🎓 **Web design** from FreeCodeCamp.  
-🎓 **Javascript** from FreeCodeCamp.  
+🎓 **Web design** | **legacy front-end** | **Javascript** from FreeCodeCamp.  
+ 
 
 ## 🔧 Technologies & Tools:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
