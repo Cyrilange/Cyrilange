@@ -14,6 +14,7 @@
 
 🎓 **IFCD0210 Desarrollo de Aplicaciones con Tecnologías Web** from euroinnova.  
 🎓 **Web design** | **legacy front-end** | **Javascript** from FreeCodeCamp.  
+[![csalamit's 42 stats](https://badge.mediaplus.ma/kettlebells/csalamit?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
  
 
 ## 🔧 Technologies & Tools:
