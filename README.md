@@ -4,7 +4,7 @@
 
 🏫 Currently studying **Computer Science** at **42 Malaga**.   
 
-[![csalamit's 42 stats](https://badge.mediaplus.ma/kettlebells/csalamit?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![csalamit's 42 stats](https://badge.mediaplus.ma/Binary/csalamit?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 🌐 Internship done of 6 month in a start up with **React-native**.  
 💻 language :  **C, Shell, C++, HTML, CSS, SaSS, JavaScript, React**.   
