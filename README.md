@@ -3,9 +3,11 @@
 
 
 🏫 Currently studying **Computer Science** at **42 Malaga**.   
-🌐 Internship done of 6 month on a start up with **React-native**.  
-💻 Learning **C, Shell, C++, HTML, CSS, SaSS, JavaScript, React**.  
-🌐 Enrolled in the **Fullstack Web Bootcamp (FreeCodeCamp)**.  
+
+[![csalamit's 42 stats](https://badge.mediaplus.ma/kettlebells/csalamit?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+🌐 Internship done of 6 month in a start up with **React-native**.  
+💻 language :  **C, Shell, C++, HTML, CSS, SaSS, JavaScript, React**.   
 🚀 Passionate about **software development, blockchain, problem-solving, and web technologies**.  
 📖 I wrote book to guide novices understand the ** ₿ blockchain world** [Click here](https://www.amazon.com/dp/B0DTZ1QL1J?ref_=pe_93986420_774957520&fbclid=IwY2xjawIIaWlleHRuA2FlbQIxMAABHeXafIqJ8QP7IaYZFYWl5JbiytLj4cwVkCvJBD_a6VDc1mHWTeVlvjdNAQ_aem_NTUifqAvjjCTy00fOoPDXA)
     
@@ -14,7 +16,7 @@
 
 🎓 **IFCD0210 Desarrollo de Aplicaciones con Tecnologías Web** from euroinnova.  
 🎓 **Web design** | **legacy front-end** | **Javascript** from FreeCodeCamp.  
-[![csalamit's 42 stats](https://badge.mediaplus.ma/kettlebells/csalamit?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
  
 
 ## 🔧 Technologies & Tools:
