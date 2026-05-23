@@ -16,7 +16,7 @@
 
 🎓 **IFCD0210 Desarrollo de Aplicaciones con Tecnologías Web** from euroinnova.  
 🎓 **Web design** | **legacy front-end** | **Javascript** from FreeCodeCamp.  
-🎓  **Computer Science** at **42 Malaga**. 
+🎓  **Computer Science** at **42 Malaga**. RNCP7 RNCP39774
 
  
 
