@@ -1,8 +1,7 @@
 <div style="background: grey; padding: 20px;">
 <img src="https://raw.githubusercontent.com/Cyrilange/Cyrilange/main/banner.svg" alt="Cyrilange Banner">
 
-
-🏫 Currently studying **Computer Science** at **42 Malaga**.   
+Software Engineer | React / React Native / C / Blockchain
 
 [![csalamit's 42 stats](https://badge.mediaplus.ma/greenbinary/csalamit?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
