@@ -70,7 +70,7 @@ I wrote an introductory book to help newcomers break into the Web3 and blockchai
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrilange&layout=compact&theme=dark" alt="Top Langs" />
+ 
   
   <br><br>
 
