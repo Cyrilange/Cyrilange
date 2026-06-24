@@ -65,7 +65,9 @@ I wrote an introductory book to help newcomers break into the Web3 and blockchai
 * 📜 **Full-Stack & JavaScript Certifications** — *FreeCodeCamp*
 
 📂 [**Explore my 42 Network Projects Comun Core**](https://github.com/Cyrilange/Cursus42)
-< br/>
+
+---
+
 📂 [**Explore my 42 Network Projects Outer Core**](https://github.com/Cyrilange/42OuterCore)
 
 ---
