@@ -64,6 +64,8 @@ I wrote an introductory book to help newcomers break into the Web3 and blockchai
 * 📜 **IFCD0210** — Desarrollo de Aplicaciones con Tecnologías Web (*Euroinnova*)
 * 📜 **Full-Stack & JavaScript Certifications** — *FreeCodeCamp*
 
+---
+
 📂 [**Explore my 42 Network Projects Comun Core**](https://github.com/Cyrilange/Cursus42)
 
 ---
